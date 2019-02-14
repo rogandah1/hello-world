@@ -1,4 +1,7 @@
 # hello-world
 Intro to Git
-Author: Rick Ogandah
+ readme-edits
+Authot: Rick Ogandah
+First git repository
 Purpose: Update the read me file with profile information
+ master
